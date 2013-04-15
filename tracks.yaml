@@ -12,8 +12,8 @@ tracks:
     name: upstream
     patches: null
     release_inc: -1
-    release_tag: :{version}
+    release_tag: null
     ros_distro: groovy
-    vcs_type: git
-    vcs_uri: null
+    vcs_type: svn
+    vcs_uri: http://svn.code.sf.net/p/jsk-ros-pkg/code/trunk/jsk_common/jsk_hark_msgs
     version: :{auto}
